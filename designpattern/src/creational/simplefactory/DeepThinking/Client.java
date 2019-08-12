@@ -8,6 +8,8 @@ public class Client {
 
         api.operation();
 
+        System.out.print("test");
+
     }
 
 }

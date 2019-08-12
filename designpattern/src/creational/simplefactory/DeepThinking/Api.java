@@ -1,7 +1,7 @@
 package creational.simplefactory.DeepThinking;
 
-public class Product {
+public interface Api {
 	
-	
+	void operation();
 	
 }

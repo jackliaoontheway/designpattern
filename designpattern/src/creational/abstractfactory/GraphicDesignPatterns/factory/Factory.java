@@ -1,4 +1,4 @@
-package creational.abstractfactorymethod.GraphicDesignPatterns.factory;
+package creational.abstractfactory.GraphicDesignPatterns.factory;
 
 public abstract class Factory {
 

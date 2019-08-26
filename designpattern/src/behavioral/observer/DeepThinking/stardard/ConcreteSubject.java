@@ -17,4 +17,8 @@ public class ConcreteSubject extends Subject {
     }
 
 
+    @Override
+    public String getContent() {
+        return this.status;
+    }
 }

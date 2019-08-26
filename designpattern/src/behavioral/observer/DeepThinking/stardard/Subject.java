@@ -20,7 +20,5 @@ public abstract class Subject {
             observer.update(this);
         }
     }
-
-
-
+    public abstract String getContent();
 }

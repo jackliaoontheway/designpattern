@@ -10,6 +10,7 @@ public class ConcreteDecorator extends Decorator {
         super.operation();;
         // add some operation
         // add some ... 动态添加功能
+
     }
 
 }
